@@ -1,0 +1,5 @@
+/home/xin/FAIM/build/CMakeFiles/edit_cache.dir
+/home/xin/FAIM/build/CMakeFiles/faim.dir
+/home/xin/FAIM/build/CMakeFiles/rebuild_cache.dir
+/home/xin/FAIM/build/CMakeFiles/gps-sdr.dir
+/home/xin/FAIM/build/CMakeFiles/gps-gse.dir
